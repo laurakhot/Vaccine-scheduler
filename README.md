@@ -1,1 +1,2 @@
-# vaccine-scheduler-java
+# Vaccine Scheduler 
+This repo contains a reservation system that allows users to schedule vaccine slots on specific days and times. The shared resource is a databse hosted on Microsoft Azure and supports interactions through the command line. User accounts must be created from the command line and passwords are salted and hashed to best uphold security. Future improvements to implement a GUI instead of the terminal interface would be a good extension to the project. 
